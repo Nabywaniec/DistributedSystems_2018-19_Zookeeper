@@ -16,5 +16,4 @@ public class App{
     private static boolean checkIfThereAreNotEnoughArgs(String[] args) {
         return args.length < 2;
     }
-
 }
